@@ -1,8 +1,8 @@
 {
-  "name": "cdkpipeline-demo",
+  "name": "cdkpipelines-demo",
   "version": "0.1.0",
   "bin": {
-    "cdkpipeline-demo": "bin/cdkpipeline-demo.js"
+    "cdkpipelines-demo": "bin/cdkpipelines-demo.js"
   },
   "scripts": {
     "build": "tsc",
