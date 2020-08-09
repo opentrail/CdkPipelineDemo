@@ -6,7 +6,7 @@ import * as path from 'path';
 /**
  * A stack for our simple lambda-powered web service
  */
-export class CdkpipelineDemoStack extends Stack {
+export class CdkpipelinesDemoStack extends Stack {
   /**
    * 
    * @param scope The URL of the API Gateway endpoint. for use in the integ tests
